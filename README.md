@@ -13,5 +13,4 @@ Structured Query Language, or SQL, is the programming language used with databas
 - [SQL](https://www.mysql.com/)
 ## 🙇 Author
 #### RanjaKen
-- Email: [aandriamalalaranja@gmail.com](aandriamalalaranja@gmail.com)
 - Github: [RanjaKen](https://github.com/RanjaKen)
