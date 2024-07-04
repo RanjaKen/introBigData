@@ -10,7 +10,7 @@ Structured Query Language, or SQL, is the programming language used with databas
 
 ## 🛠️ Tech Stack
 - [Python](https://www.python.org/)
-- [SQL](https://www.mysql.com/
+- [SQL](https://www.mysql.com/)
 ## 🙇 Author
 #### RanjaKen
 - Email: [aandriamalalaranja@gmail.com](aandriamalalaranja@gmail.com)
